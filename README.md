@@ -30,7 +30,7 @@ This project provides a hands-on demonstration of mechanistic interoperability i
 
    ## Output
    ```bash
-         Model Architecture:
+      Model Architecture:
       - Embedding dimension: 16
       - Number of heads: 4
       - Feed-forward dimension: 64
@@ -40,7 +40,9 @@ This project provides a hands-on demonstration of mechanistic interoperability i
       Output shape: torch.Size([1, 5, 16])
 
       Visualizing attention patterns...
-   ```
+    ```
+   ![image](https://github.com/user-attachments/assets/2a2b9d47-19e3-4367-92c3-1ce2ee777721)
+
 
 The demo will create a small Transformer model and visualize attention patterns across different heads and layers.
 
